@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AceptaElReto.iml" filepath="$PROJECT_DIR$/.idea/AceptaElReto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LaTiaManuela542/LaTiaManuela542.iml" filepath="$PROJECT_DIR$/LaTiaManuela542/LaTiaManuela542.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PostesParaUnCercado/PostesParaUnCercado.iml" filepath="$PROJECT_DIR$/PostesParaUnCercado/PostesParaUnCercado.iml" />
+    </modules>
+  </component>
+</project>
